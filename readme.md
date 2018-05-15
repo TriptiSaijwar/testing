@@ -35,6 +35,7 @@ Solution:
 - Go into the git folder created on the system
 - (cmd + shift + .) to get the Hidden files.
 - .git Folder => Config File
+
         [core]
         repositoryformatversion = 0
         filemode = true
