@@ -10,7 +10,9 @@ Use
 - git config --list to know git configuration of a project.
 
 
-config File
+Config File :
+        
+    # github
     Host Work
         HostName Work
         User git
